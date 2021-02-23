@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    font-family:  Helvetica;
+}
+
+header{
+    text-align: center;
+}
+
+section{
+    background: #fafafa;
+    padding-top: 60px;
+}
+
+div.header{
+
+}
+
+.box{
+    width: 600px; margin: auto;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    background: white;
+    border: 1px solid #EDEEEE;
+}
+
+img{
+    width: 100%;
+}
+
+h2{
+    padding: 15px;
+    margin: 0;
+    font-size: 20px;
+    display: inline;
+}
+
+div.description{
+    padding: 15px;
+}
+
+h4{
+    float: right; margin: 0;
+}
